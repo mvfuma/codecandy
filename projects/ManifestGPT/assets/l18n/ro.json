@@ -58,6 +58,8 @@
     "paywall_renew_pattern": "[price]/[period]",
     "cancel_anytime": "Anulează oricând",
     "generic_error_title": "Ups!",
-    "generic_error_subtitle": "Ceva a mers prost. Te rugăm să încerci din nou mai târziu."
+    "generic_error_subtitle": "Ceva a mers prost. Te rugăm să încerci din nou mai târziu.",
+    "letter_signature": "Cu drag, {name}"
+
   }
   

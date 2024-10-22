@@ -58,5 +58,6 @@
   "paywall_renew_pattern": "[price]/[period]",
   "cancel_anytime": "Cancela en cualquier momento",
   "generic_error_title": "¡Vaya!",
-  "generic_error_subtitle": "Algo salió mal. Por favor, intenta de nuevo más tarde."
+  "generic_error_subtitle": "Algo salió mal. Por favor, intenta de nuevo más tarde.",
+  "letter_signature": "Con amor, {name}"
 }
